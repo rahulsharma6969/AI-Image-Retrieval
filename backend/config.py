@@ -1,0 +1,9 @@
+class Config:
+    GEMINI_API_KEY = ""
+    IMAGEKIT_PUBLIC_KEY = ""
+    IMAGEKIT_PRIVATE_KEY = ""
+    IMAGEKIT_URL_ENDPOINT = ""
+    QDRANT_CLIENT_URL = ""
+    QDRANT_CLIENT_API_KEY = ""
+    IMAGE_COLLECTION = "images"
+    TEXT_COLLECTION = "text"
